@@ -1,7 +1,5 @@
 # Repositorio criado para aulas e projetos da plataforma de cursos Rocketseat.
 
----
-
 ## 6ª edição do NLW.
 
 - [ ] Mission: Origin;
